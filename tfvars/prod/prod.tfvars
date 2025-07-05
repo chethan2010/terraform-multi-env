@@ -3,3 +3,5 @@ instance_names={
     frontend-prod = "t3.micro"
     backend-prod = "t3.micro"
 }
+
+environment="prod"
